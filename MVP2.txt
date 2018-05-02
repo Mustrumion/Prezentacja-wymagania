@@ -1,0 +1,5 @@
+[Użytkownik]-(Rejestruje się),
+[Użytkownik]-(Usuwa konto),
+[Użytkownik]-(Loguje się),
+[Użytkownik]-(Usuwa swoje zainteresowanie),
+[Użytkownik]-(Usuwa kontakt)

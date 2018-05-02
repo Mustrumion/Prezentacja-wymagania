@@ -1,0 +1,8 @@
+[Użytkownik]-(Zmienia obszar swojej dostępności),
+[Użytkownik]-(Edytuje swój profil),
+[Użytkownik]-(Dodaje swoje zainteresowanie),
+[Użytkownik]-(Rozmawia z kontaktem),
+[Użytkownik]-(Wyszukuje innych),
+[Użytkownik]-(Dodaje innych do kontaktów),
+(Dodaje innych do kontaktów)>(Wyszukuje innych)
+(Zmienia obszar swojej dostępności)<(Edytuje swój profil)

@@ -1,0 +1,5 @@
+[Użytkownik]-(Dodaje hobby do systemu),
+[Użytkownik]-(Ignoruje użytkownika),
+[Użytkownik]-(Rozmawia z kontaktem),
+[Użytkownik]-(Tworzy rozmowę grupową),
+(Rozmawia z kontaktem)<(Tworzy rozmowę grupową)
